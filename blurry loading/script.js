@@ -18,3 +18,11 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 
 let int = setInterval(blurring, 30);
 .
+
+/////
+.....
+/////
+....
+//
+main
+*****
